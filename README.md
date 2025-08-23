@@ -8,22 +8,22 @@ Bem-vindo ao repositório Arquiteturas AWS! Aqui você encontrará exemplos de a
 ```
 📂 Estrutura do Repositório
 text
-Arquiteturas-AWS/
-├─ arquiteturas/                 # Diagramas e representações visuais das arquiteturas
-│  ├─ vpc-regiao/                # Arquitetura 1: VPC numa Região
-│  ├─ subredes-az/               # Arquitetura 2: Sub-redes em Zonas de Disponibilidade
-│  ├─ ec2-subrede-publica/       # Arquitetura 3: EC2 numa Sub-rede Pública
-│  ├─ s3-multi-regiao/           # Arquitetura 4: S3 Multi-Região
-│  ├─ ec2-ebs/                   # Arquitetura 5: Conexão EC2 no EBS
-│  ├─ site-estatico-s3/          # Arquitetura 6: Site Estático no S3
-│  ├─ aws-journey/               # Arquitetura 7: AWS Journey
-│  ├─ aws-flow/                  # Arquitetura 8: AWS Flow
-│  ├─ serverless-scholar/        # Arquitetura 9: Serverless Scholar
-│  └─ protocolos-ip/             # Arquitetura 10: Protocolos da Internet e Endereços IP
-├─ exemplos/                     # Exemplos de código e templates
-├─ docs/                         # Documentação adicional
-└─ README.md                     # Este arquivo
-🎯 Objetivo
+├─ arquiteturas/                                   # Diagramas e representações visuais das arquiteturas
+│  ├─ 001-VPC numa Região.png                       # Arquitetura 1: VPC numa Região
+│  ├─ 002-SubRedes em Zonas de Disponibilidade.png  # Arquitetura 2: Sub-redes em Zonas de Disponibilidade
+│  ├─ 003-EC2 numa SubRede Publica.png             # Arquitetura 3: EC2 numa Sub-rede Pública
+│  ├─ 004-S3 MultiRegiao.png                        # Arquitetura 4: S3 Multi-Região
+│  ├─ 005-Conexão EC2 no EBS.png                   # Arquitetura 5: Conexão EC2 no EBS
+│  ├─ 006 - Site Estático no S3.png                # Arquitetura 6: Site Estático no S3
+│  ├─ 007 - AWS Journey 🚀.jpeg                     # Arquitetura 7: AWS Journey
+│  ├─ 008 - AWS Flow 🌐.jpeg                        # Arquitetura 8: AWS Flow
+│  ├─ 009 - Serverless Scholar 🧠✨.jpeg           # Arquitetura 9: Serverless Scholar
+│  └─ 010 - Protocolos da Internet endereços IP públicos e privados.png  # Arquitetura 10: Protocolos da Internet e Endereços IP
+├─ 011 - IAM.png                                   # Arquivo IAM
+├─ 012 - Selecionando dados de um banco de dados.png  # Exemplo de banco de dados
+├─ 013 - Instalar e configurar a CLI da AWS.png   # Exemplo de configuração CLI
+└─ README.md                                      # Este arquivo
+
 O objetivo deste repositório é fornecer exemplos práticos de arquiteturas na nuvem, auxiliando no entendimento e aplicação de conceitos de computação em nuvem.
 ```
 📌 Como Usar
